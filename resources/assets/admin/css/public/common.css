@@ -1,0 +1,19 @@
+/*表单验证提示*/
+.has-danger .help-block {
+    color: #F64E60;
+    font-weight: 400;
+    font-size: 0.9rem;
+	margin-top: .25rem;
+}
+.has-danger .help-block .fa {
+	color: #F64E60;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+/*选择文件*/
+.choice-file-box .choice-file-control {
+	display: none;
+}
+.choice-file-box .choice-file-puppet .choice-file-input {
+	pointer-events: none;
+}

@@ -1,0 +1,6 @@
+.modal .card {
+	border: none;
+}
+.modal .text-muted {
+	width: calc(100% - 40px - 1rem);
+}
